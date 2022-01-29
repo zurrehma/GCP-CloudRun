@@ -1,0 +1,13 @@
+{
+  "projectID": "GCP-Project-ID",
+  "serviceName": "CloudRun-Application-Name",
+  "region": "GCP-Region",
+  "slackToken": "Slack-Token",
+  "slackChannelName": "Slack-Channel-Name",
+    "instances": [
+     "Instances requested for backup"
+    ],
+    "threshold": {
+      "Instance-Name": "Threshold in Minutes"
+    } 
+}

@@ -1,0 +1,13 @@
+{
+  "projectID": "GCP-Project-ID",
+  "serviceName": "CloudRun-Application-Name",
+  "region": "GCP-Region",
+  "slackToken": "Slack-Token",
+  "slackChannelName": "Slack-Channel-Name",
+    "exclude": [
+     "Service Account name or email"
+    ],
+    "threshold": {
+      "Service Account name or email": "Threshold in days"
+    } 
+}

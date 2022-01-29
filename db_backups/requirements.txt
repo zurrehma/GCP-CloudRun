@@ -1,0 +1,6 @@
+Flask
+slackclient>=1.0.0,<2.0.0
+google-api-python-client
+pytz
+google-cloud-logging
+tenacity
